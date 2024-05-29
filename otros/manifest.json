@@ -1,6 +1,6 @@
 {
-  "name": "Jailson WebRadio",
-  "short_name": "Jailson Radio",
+  "name": "MusicaCristiana WebRadio",
+  "short_name": "MusicaCristiana Radio",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
