@@ -1,7 +1,7 @@
 const RADIO_NAME = '♫ MusicaCristiana ♪';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
-const URL_STREAMING = 'https://stream.zeno.fm/efy4auvgp9duv';
+const URL_STREAMING = 'https://stream.zeno.fm/kyvcfnsvh9duv';
 
 // You can find the mount point in the Broadcast Settings.
 // To generate the Zeno Radio API link from the mount point,
